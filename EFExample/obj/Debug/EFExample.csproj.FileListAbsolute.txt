@@ -1,0 +1,13 @@
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\bin\Debug\EFExample.pdb
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\bin\Debug\EntityFramework.dll
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\bin\Debug\EntityFramework.SqlServer.dll
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\bin\Debug\EntityFramework.xml
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\bin\Debug\EntityFramework.SqlServer.xml
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\obj\Debug\EFExample.csprojResolveAssemblyReference.cache
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\obj\Debug\EFExample.pdb
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\bin\Debug\EFExample.exe.config
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\bin\Debug\EFExample.exe
+E:\Languages Practice\dotnet\WelcomeApplication\EFExample\obj\Debug\EFExample.exe
+E:\Languages Practice\dotnet\EFExample\bin\Debug\EFExample.exe.config
+E:\Languages Practice\dotnet\EFExample\obj\Debug\EFExample.exe
+E:\Languages Practice\dotnet\EFExample\obj\Debug\EFExample.pdb
